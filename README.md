@@ -1,5 +1,9 @@
 # My #100DaysOfCode Journey
 
+![100 Days Of Code](https://github.com/AnirudhPanda/100DaysOfCode/blob/master/Aquamarine%20and%20Orange%20Bordered%20Games%20Collection%20YouTube%20Channel%20Art.png)
+
+
+
 **Anirudh Panda**  
 *Student Developer* 
 
