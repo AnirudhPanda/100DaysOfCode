@@ -22,7 +22,7 @@
 |Day 13|September 5, 2020| Creating **Robofriends** using React | [Tutorial](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/16504546#questions)|
 |Day 14|September 6, 2020| **Robofriends** project | [Udemy]()|
 |Day 15|September 7, 2020| **DSA** - Analysis of Algorithms | [Learn](#)|
-|Day 16|September 8, 2020| *No Code Day* | :sweat_smile:
+|Day 16|September 8, 2020| Made this **Simple Portfolio** | [Link](anirudhpanda-portfolio.netlify.app)
 |Day 17|September 9, 2020| *Procastination Day*	| :upside_down_face: |
 |Day 18|September 10, 2020| **Tribute Page** Project | [Link](https://codepen.io/anirudhpanda/full/BaKxyox) |
 |Day 19|September 11, 2020| **Working** on Robofriends | :face_with_thermometer:|
