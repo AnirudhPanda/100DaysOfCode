@@ -32,9 +32,6 @@
 |Day 19|September 11, 2020| **Working** on Robofriends | :face_with_thermometer:|
 |Day 20|September 12, 2020| **Survey Page** Project| [Link](https://codepen.io/anirudhpanda/full/mdPLpjL)|
 |Day 21|September 13, 2020| Made this *README* | :smiling_face_with_three_hearts: |
-||| Learning React | |
-
-
 
 
 <!-- |Day 22|September 14, 2020| FreeCodeCamp CSS tutorials | [Tutorial](https://www.freecodecamp.org/learn/)|
