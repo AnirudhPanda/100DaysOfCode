@@ -34,8 +34,8 @@
 |Day 21|September 13, 2020| Made this *README* | :smiling_face_with_three_hearts: |
 |Day 22|September 14, 2020| Completed Robofriends using **React** | [Robofriends](anirudhpanda.github.io/robofriends/)|
 ||| Java Basics | |
-<!--|Day 23|September 15, 2020| Event **Coderantine** completed | Event Over :white_check_mark: |                     
-|Day 24|September 16, 2020| Solar Eclipse CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/rNxyZaJ)|   
+|Day 23|September 15, 2020| Basics Java Programs |  |                     
+<!--|Day 24|September 16, 2020| Solar Eclipse CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/rNxyZaJ)|   
 |Day 25|September 17, 2020| Spring Boot Basics | [Tutorial](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)|
 |Day 26|September 18, 2020| Liquid Loader CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/eYJRZXw)|
 ||| Spring Boot Basics | [Tutorial](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)|
