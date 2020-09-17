@@ -36,8 +36,9 @@
 ||| Java Basics | |
 |Day 23|September 15, 2020| Basics Java Programs | [Repo](https://github.com/AnirudhPanda/Basic-Java-Programs) |                     
 |Day 24|September 16, 2020| Java Programs  | [Repo](https://github.com/AnirudhPanda/Basic-Java-Programs) |   
-<!--|Day 25|September 17, 2020| Spring Boot Basics | [Tutorial](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)|
-|Day 26|September 18, 2020| Liquid Loader CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/eYJRZXw)|
+|Day 25|September 17, 2020| Started 30 Days Of JS | [Link](https://javascript30.com/)|
+||| Java Contd.. | |
+<!--|Day 26|September 18, 2020| Liquid Loader CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/eYJRZXw)|
 ||| Spring Boot Basics | [Tutorial](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)|
 |Day 27|September 19, 2020| Picture Frame CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/qBbjQqq)|
 ||| Spring Boot Basics | [Tutorial](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)|
