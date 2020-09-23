@@ -40,13 +40,13 @@
 ||| Java Contd.. | |
 |Day 26|September 18, 2020| Java Problems | :see_no_evil:|
 |Day 27|September 19, 2020| **Day-1** JS Drum Kit | [View](https://github.com/AnirudhPanda/30-days-Vanilla-JS/tree/master/JS%20Drum%20Kit)|
+|Day 28|September 20, 2020| Health Issues | :eyes:	| 
+|Day 29|September 21, 2020| Health Issues | |
+|Day 30|September 22, 2020| Health Issues | | 
+|Day 31|September 23, 2020| *No Code Day* | | 
 
-<!--|Day 28|September 20, 2020| Pure CSS Sunset CodePen | Updated :eyes:	| 
-||| Spring Boot Basics | [Tutorial](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)|
-|Day 29|September 21, 2020| Sunset CodePen with some SVG | [View CodePen](https://codepen.io/chandrikadeb7/full/QWyMOvJ)|
-|Day 30|September 22, 2020| Mentoring Session on **Effective Resume Building** | [See Slides](https://docs.google.com/presentation/d/1CgOyVOrniDx7wOL3NhYnFUefTJSjMwPPWRzELbd0jec/edit?usp=sharing)| 
-|Day 31|September 23, 2020| *No Code Day* | :see_no_evil:| 
-|Day 32|September 24, 2020| Implemented SVG to Sunset CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/QWyMOvJ) | 
+
+<!--|Day 32|September 24, 2020| Implemented SVG to Sunset CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/QWyMOvJ) | 
 |Day 33|September 25, 2020| Completed Spring Boot Tutorial | [Tutorial](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)|
 ||| Applied for **Google Season Of Docs**| :page_facing_up:|
 |Day 34|September 26, 2020| Portfolio Website Updated | :computer:| 
