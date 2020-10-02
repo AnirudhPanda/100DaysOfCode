@@ -44,24 +44,15 @@
 |Day 29|September 21, 2020| Health Issues | |
 |Day 30|September 22, 2020| Health Issues | | 
 |Day 31|September 23, 2020| *No Code Day* | | 
-
-
-<!--|Day 32|September 24, 2020| Implemented SVG to Sunset CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/QWyMOvJ) | 
-|Day 33|September 25, 2020| Completed Spring Boot Tutorial | [Tutorial](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)|
-||| Applied for **Google Season Of Docs**| :page_facing_up:|
-|Day 34|September 26, 2020| Portfolio Website Updated | :computer:| 
-||| Received **30DaysOfKotlin** Certificate| [View Certificate](https://drive.google.com/file/d/1Qj02X9fcF7IIHHbdG2WBGDLSDVCFPeVZ/view?usp=sharing)|
-|Day 35|September 27, 2020| Portfolio Website Deployed | [Visit Website](https://chandrikadeb7.github.io/)|
-||| Published an article| [Visit Website](https://www.educative.io/edpresso/github-for-beginners)|
-||| Event **Effective Resume & Online Profile Building** | Event Over :white_check_mark:| 
-|Day 36|September 28, 2020| Portfolio Website Mobile Version Responsive | [Visit Website](https://chandrikadeb7.github.io/)|
-|Day 37|September 29, 2020| Started CSS Placard Series | [View Collection](https://codepen.io/collection/DxypKO)|
-||| FreeCodeCamp CSS tutorials | [Tutorial](https://www.freecodecamp.org/learn/)|
-||| Microservices Tutorial| [Tutorial](https://www.edureka.co/blog/microservices-tutorial-with-example)|
-|Day 38|September 30, 2020| FreeCodeCamp CSS tutorials | [Tutorial](https://www.freecodecamp.org/learn/)|
-||| Microservices Tutorial| [Tutorial](https://www.edureka.co/blog/microservices-tutorial-with-example)|
-|Day 39|October 1, 2020| Pure CSS Resume CodePen | [View CodePen](https://codepen.io/chandrikadeb7/full/jOWzPNd)|
-|Day 40|October 2, 2020| Mentoring Session for Online Portfolio Building | [View Slides](https://docs.google.com/presentation/d/1WQXvYIE_Q1qESSDclLgZgJL4NJ98jD23tr8mMz7UT28/edit?usp=sharing)|  -->
+|Day 32|September 24, 2020| Java  | | 
+|Day 33|September 25, 2020| Read Javascript IIFE | [Coding Blocks]() |
+|Day 34|September 26, 2020| No Code day | :computer:| 
+|Day 35|September 27, 2020| Applied for SLoP | [Visit Website](https://dsc-slop.github.io/)|
+|Day 36|September 28, 2020| Basics Java Patterns | |
+|Day 37|September 29, 2020| Completed 1 Leetcode Question | |
+|Day 38|September 30, 2020| Selected for SLoP and Joined Sinix Org | [Sinix](https://github.com/sinix-dev) |
+|Day 39|October 1, 2020| Hacktober Fest BEGINS | [Hacktober Fest 2020](https://hacktoberfest.digitalocean.com/)|
+|Day 40|October 2, 2020| Submitted PR's to some Open Source Projects | [Github](https://github.com/AnirudhPanda)| 
 
 
 
