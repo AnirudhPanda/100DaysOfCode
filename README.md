@@ -53,17 +53,12 @@
 |Day 38|September 30, 2020| Selected for SLoP and Joined Sinix Org | [Sinix](https://github.com/sinix-dev) |
 |Day 39|October 1, 2020| Hacktober Fest BEGINS | [Hacktober Fest 2020](https://hacktoberfest.digitalocean.com/)|
 |Day 40|October 2, 2020| Submitted PR's to some Open Source Projects | [Github](https://github.com/AnirudhPanda)| 
+|Day 41|October 3, 2020| Java array programs | |
+|Day 42|October 4, 2020| Learnt About ESLint | [View Tutorial](https://eslint.org/)|
+|Day 43|October 5, 2020| Class and Objects - Java | [Visit Tutorial](https://www.w3schools.com/java/java_classes.asp)| 
+|Day 44|October 6, 2020| Learnt about Travis CI and Implemented to SINIX| [Visit Website](https://travis-ci.com/)| 
 
-
-
-
-
-<!-- |Day 41|July 9, 2020| FreeCodeCamp CSS tutorials | [Tutorial](https://www.freecodecamp.org/learn/)|
-||| Microservices Tutorial| [Tutorial](https://www.edureka.co/blog/microservices-tutorial-with-example)|
-|Day 42|July 10, 2020| Mentoring Session on **Effective Resume & Online Portfolio Building** | [View Slides](https://docs.google.com/presentation/d/1lWUtSAJx4Bl46Vrtt28Gn_SlRdGsO7JFZtbNIe3CX74/edit?usp=sharing)|
-|Day 43|July 11, 2020| Client Website Requirements Specifications | [Visit Website](https://caimconsulting.vercel.app/)| 
-|Day 44|July 12, 2020| Client Website Update| [Visit Website](https://caimconsulting.vercel.app/)| 
-|Day 45|July 13, 2020| Client Website Deployed| [Visit Website](https://caimconsulting.vercel.app/)| 
+<!--|Day 45|July 13, 2020| Client Website Deployed| [Visit Website](https://caimconsulting.vercel.app/)| 
 |Day 46|July 14, 2020| Technical Writer Interview | :woman_office_worker:| 
 |Day 47|July 15, 2020| Started intern **@iSmile Technologies** | [Offer Letter](https://drive.google.com/file/d/1atpaaCB4QXIas3Negexo6xhkS10nvoUy/view?usp=sharing)| 
 |Day 48|July 16, 2020| Website Content Update | [Visit Website](https://www.ismiletechnologies.com/)| 
