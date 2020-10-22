@@ -57,10 +57,10 @@
 |Day 42|October 4, 2020| Learnt About ESLint | [View Tutorial](https://eslint.org/)|
 |Day 43|October 5, 2020| Class and Objects - Java | [Visit Tutorial](https://www.w3schools.com/java/java_classes.asp)| 
 |Day 44|October 6, 2020| Learnt about Travis CI and Implemented to SINIX| [Visit Website](https://travis-ci.com/)| 
+|Day 45|October 7-October 21, 2020| Midsem Exams | | 
+|Day 46|October 22, 2020| Inheritance and Polymorphism | :man_office_worker:| 
 
-<!--|Day 45|July 13, 2020| Client Website Deployed| [Visit Website](https://caimconsulting.vercel.app/)| 
-|Day 46|July 14, 2020| Technical Writer Interview | :woman_office_worker:| 
-|Day 47|July 15, 2020| Started intern **@iSmile Technologies** | [Offer Letter](https://drive.google.com/file/d/1atpaaCB4QXIas3Negexo6xhkS10nvoUy/view?usp=sharing)| 
+<!--|Day 47|July 15, 2020| Started intern **@iSmile Technologies** | [Offer Letter](https://drive.google.com/file/d/1atpaaCB4QXIas3Negexo6xhkS10nvoUy/view?usp=sharing)| 
 |Day 48|July 16, 2020| Website Content Update | [Visit Website](https://www.ismiletechnologies.com/)| 
 |Day 49|July 17, 2020| Received **GSSoC'20** Cerificate | [View Certificate](https://drive.google.com/file/d/19p1aLjFoMwbZXdO8MwYsNaITuQR5LFvT/view?usp=sharing) | 
 |Day 50|July 18, 2020| Client Website Update| [Visit Website](https://caimconsulting.vercel.app/)| 
