@@ -59,13 +59,12 @@
 |Day 44|October 6, 2020| Learnt about Travis CI and Implemented to SINIX| [Visit Website](https://travis-ci.com/)| 
 |Day 45|October 7-October 21, 2020| Midsem Exams | | 
 |Day 46|October 22, 2020| Inheritance and Polymorphism | :man_office_worker:| 
+|Day 47|October 23, 2020| Javascript Study | | 
+|Day 48|October 24, 2020| No Code | | 
+|Day 49|October 25, 2020| Started making Portfolio Website | | 
+|Day 50|October 26, 2020| Made a Product Landing Page(FreeCodeCamp)| [Link](https://codepen.io/anirudhpanda/full/YzqOjwj) |
 
-<!--|Day 47|July 15, 2020| Started intern **@iSmile Technologies** | [Offer Letter](https://drive.google.com/file/d/1atpaaCB4QXIas3Negexo6xhkS10nvoUy/view?usp=sharing)| 
-|Day 48|July 16, 2020| Website Content Update | [Visit Website](https://www.ismiletechnologies.com/)| 
-|Day 49|July 17, 2020| Received **GSSoC'20** Cerificate | [View Certificate](https://drive.google.com/file/d/19p1aLjFoMwbZXdO8MwYsNaITuQR5LFvT/view?usp=sharing) | 
-|Day 50|July 18, 2020| Client Website Update| [Visit Website](https://caimconsulting.vercel.app/)| 
-|||FreeCodeCamp Python Tutorials| [Tutorial](https://www.freecodecamp.org/learn/)| 
-|Day 51|July 19, 2020| Client Website Update| [Visit Website](https://caimconsulting.vercel.app/)| 
+<!--|Day 51|July 19, 2020| Client Website Update| [Visit Website](https://caimconsulting.vercel.app/)| 
 ||| Microservices Tutorial Completed| [Tutorial](https://www.edureka.co/blog/microservices-tutorial-with-example)|
 |Day 52|July 20, 2020| Event **Pen in {CSS}** | [Register Now](https://tiny.cc/penincss)| 
 |Day 53|July 21, 2020| iSmile Technologies Brochure designed| [See brochure](https://www.canva.com/design/DAECn7IhUrg/QgVdCcdY0kI_Sb8jKGqEcw/view?utm_content=DAECn7IhUrg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) | 
