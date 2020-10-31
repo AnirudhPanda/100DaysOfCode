@@ -63,17 +63,13 @@
 |Day 48|October 24, 2020| No Code | | 
 |Day 49|October 25, 2020| Started making Portfolio Website | | 
 |Day 50|October 26, 2020| Made a Product Landing Page(FreeCodeCamp)| [Link](https://codepen.io/anirudhpanda/full/YzqOjwj) |
+|Day 51|October 27, 2020| Exceptions in Java | :man_office_worker:| 
+|Day 52|October 28, 2020| Started Making Tinder Clone- **Rinder** | | 
+|Day 53|October 29, 2020| *Javascript ES 2020*| [See My Tweet](https://twitter.com/anirudhpandaaa/status/1322172284031758336) | 
+|Day 54|October 30, 2020| *Javascript* Study| | 
+|Day 55|October 31, 2020| Async JS, Promises, Async-Await | [See Tutorial](https://www.youtube.com/watch?v=CWjNefiE47Y)|
 
-<!--|Day 51|July 19, 2020| Client Website Update| [Visit Website](https://caimconsulting.vercel.app/)| 
-||| Microservices Tutorial Completed| [Tutorial](https://www.edureka.co/blog/microservices-tutorial-with-example)|
-|Day 52|July 20, 2020| Event **Pen in {CSS}** | [Register Now](https://tiny.cc/penincss)| 
-|Day 53|July 21, 2020| iSmile Technologies Brochure designed| [See brochure](https://www.canva.com/design/DAECn7IhUrg/QgVdCcdY0kI_Sb8jKGqEcw/view?utm_content=DAECn7IhUrg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) | 
-||| CSS Pizza CodePen| [View CodePen](https://codepen.io/chandrikadeb7/full/MWKLWBX)|
-|Day 54|July 22, 2020| FreeCodeCamp Python Tutorials| [Tutorial](https://www.freecodecamp.org/learn/)| 
-||| Documented progress **#100DaysOfCode** GitHub repo| [See Repo](https://github.com/chandrikadeb7/100DaysOfCode)|
-|Day 55|July 23, 2020|  FreeCodeCamp Python Certification| [See Certificate](https://drive.google.com/file/d/11PoX1ZdfGdARRK2PJ2pooKD0v41Dbjvf/view?usp=sharing)|
-||| Updated GitHub repo with **FreeCodeCamp Python** project solutions| [See Repo](https://github.com/chandrikadeb7/FreeCodeCamp-Projects)|
-|Day 56|July 24, 2020| Pure CSS Cow Codepen | [View CodePen](https://codepen.io/chandrikadeb7/full/eYJXegE)| 
+<!--|Day 56|July 24, 2020| Pure CSS Cow Codepen | [View CodePen](https://codepen.io/chandrikadeb7/full/eYJXegE)| 
 |Day 57|July 25, 2020| FreeCodeCamp projects| [Tutorial](https://www.freecodecamp.org/learn/)| 
 |Day 58|July 26, 2020| FreeCodeCamp projects| [Tutorial](https://www.freecodecamp.org/learn/)| 
 ||| Working on a tech blog| :pen: :notebook:|
